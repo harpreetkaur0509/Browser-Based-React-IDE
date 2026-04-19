@@ -10,4 +10,4 @@ This is a React-based project for CipherSchools.
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   https://github.com/harpreetkaur0509/ReactBox.git
+   https://github.com/harpreetkaur0509/Browser-Based-React-IDE.git
