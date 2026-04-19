@@ -1,6 +1,6 @@
 #  React Project
 
-This is a React-based project for CipherSchools.
+This is a React-based project.
 
 ## 🚀 Features
 - Built with React and modern JavaScript (ES6+)
