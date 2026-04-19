@@ -1,4 +1,4 @@
-# CipherSchools React Project
+#  React Project
 
 This is a React-based project for CipherSchools.
 
@@ -10,4 +10,4 @@ This is a React-based project for CipherSchools.
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/satyamupadhyay1507/CipherSchools.git
+   https://github.com/harpreetkaur0509/ReactBox.git
