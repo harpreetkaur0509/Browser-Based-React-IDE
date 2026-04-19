@@ -1,5 +1,5 @@
 # Browser-Based-React-IDE
-This is a React-based project for CipherSchools.
+This is a React-based project.
 
 🚀 Features
 
